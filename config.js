@@ -24,8 +24,8 @@ export const config = {
             originBlacklist: null,
         },
         server: {
-            host: "142.44.206.140",
-            port: 25617,
+            host: "57.135.226.102",
+            port: 25565,
         },
         tls: undefined,
     },
